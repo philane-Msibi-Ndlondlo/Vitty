@@ -1,0 +1,19 @@
+{
+  "name": "vitty",
+  "version": "1.0.0",
+  "description": "This is a readme file generator to make your project more detailed for other programmers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "readme"
+  ],
+  "author": "Philane Msibi <Philanemsibi14@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.1.5",
+    "loba": "^1.0.0"
+  }
+}
