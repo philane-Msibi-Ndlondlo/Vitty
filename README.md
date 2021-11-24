@@ -20,13 +20,13 @@ User must have NodeJs to run this dep
 # Installation
 
 ```bash
-npm i vitty -D
+npm i vitty -g
 ```
 
 # Usage
 
-```javaScript
-ReadmeGenerator.generate(params);
+```bash
+vitty
 ```
 
 # Tests
