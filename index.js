@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const ReadmeGenerator = require("./models/ReadmeGenerator");
 const inquirer = require("inquirer");
 

@@ -1,8 +1,10 @@
 {
   "name": "vitty",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a readme file generator to make your project more detailed for other programmers",
   "main": "index.js",
+  "preferGlobal": "true",
+  "bin": "./index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
